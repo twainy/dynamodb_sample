@@ -1,0 +1,14 @@
+{
+  "name": "twainy/dynamodb_sample",
+  "description": "dynamodb access sample",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "twainy"
+    }
+  ],
+  "require": {
+    "aws/dynamodb-php-wrapper": "dev-master"
+  }
+}
